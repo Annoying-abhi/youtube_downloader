@@ -1,1 +1,1 @@
-worker:python yt_downloader.py
+web:python yt_downloader.py
